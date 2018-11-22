@@ -13,6 +13,9 @@
 ### Dynamic Arrays and Amortized Analysis
 
 ### Priority Queues and Disjoint Sets
+* [Convert array into heap](https://github.com/LoewiLu/Data_Structures/blob/master/Priority_Queues_and_Disjoin_Sets/build_heap.py)
+* Parallel processing
+* Merging tables
 
 ### Hash Tables
 
